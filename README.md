@@ -34,10 +34,13 @@ the end report or dashboard in mind, not just the load job.
 ## 💼 Experience
 
 **Data Engineering & Analytics Intern**
-*National Telecommunication Institute (NTI)* · *[Add dates, e.g. Jun 2025 – Aug 2025]*
+*National Telecommunication Institute (NTI)* · *[Add dates, e.g. April 2026 – July 2026]*
 
-- Hands-on training in data pipeline development, warehousing concepts, and analytics reporting as part of a structured technical program
-- *[Add 1–2 specific bullets here]*
+- Designed and deployed 3 interactive Power BI dashboards tracking customer-segment KPIs and telecom performance metrics, now used weekly by operations and  management teams for data-driven decision-making.
+- Queried and analyzed multi-source retail and telecom datasets (100K+ records) using SQL and Python (Pandas, NumPy); identified behavioral patterns that informed campaign targeting strategy adopted for the current quarter.
+- Built and executed A/B testing frameworks to measure segment lift, producing validated recommendations directly adopted as campaign baseline by the marketing team.
+-	Automated recurring KPI reports using Python and Excel (Power Query, PivotTables), reducing manual reporting effort by 4+ hours per cycle.
+
 
 ---
 
